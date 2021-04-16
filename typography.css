@@ -1,0 +1,11 @@
+
+.header__logo
+{
+    color: #FEFEFE;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    text-decoration: none;
+}

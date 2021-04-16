@@ -1,0 +1,322 @@
+
+.main__card-section-1
+{
+  
+    flex-direction: column;
+    justify-self: center;
+    margin-top: 150px;
+
+}
+
+.section__card-1
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #92B8B7;
+    width: 343px;
+    height: 170px;
+    
+}
+
+.card__1-heading
+{
+    color: #707070;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.card__1-text
+{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    width: 120px;
+    margin-left: 100px;
+    opacity: 60%;
+}
+
+.card__1-img
+{
+
+    width: 140px;
+    height: 170px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+/*/////////// 2 ///////////*/
+
+
+.main__card-section-2
+{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    margin-top: 40px;
+
+}
+
+.section__card-2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #92B8B7;
+    width: 343px;
+    height: 170px;
+    
+}
+
+.card__2-heading
+{
+    color: #707070;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.card__2-text
+{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    width: 130px;
+    margin-left: 100px;
+    opacity: 60%;
+}
+
+.card__2-img
+{
+   
+    width: 140px;
+    height: 170px;
+    margin-top: -170px;
+    margin-left: 15px;
+}
+
+/*//////// 3 ///////*/
+
+.main__card-section-3
+{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    margin-top: 40px;
+
+}
+
+.section__card-3
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #92B8B7;
+    width: 343px;
+    height: 170px;
+    
+}
+
+.card__3-heading
+{
+    color: #707070;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.card__3-text
+{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    width: 120px;
+    margin-left: 100px;
+    opacity: 60%;
+}
+
+.card__3-img
+{
+   
+    width: 140px;
+    height: 170px;
+    margin-top: -170px;
+    margin-left: 15px;
+}
+
+/*///////// 4 ///////////*/
+
+.main__card-section-4
+{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    margin-top: 40px;
+
+}
+
+.section__card-4
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #92B8B7;
+    width: 343px;
+    height: 170px;
+    
+}
+
+.card__4-heading
+{
+    color: #707070;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.card__4-text
+{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    width: 120px;
+    margin-left: 100px;
+    opacity: 60%;
+}
+
+.card__4-img
+{
+   
+    width: 140px;
+    height: 170px;
+    margin-top: -170px;
+    margin-left: 15px;
+}
+
+
+@media only screen and (min-width: 768px)
+{
+
+    /*////////// Main Section /////////*/
+
+    .section__items-heading{
+        font-size: 60px;
+        margin-left: 40px;
+    }
+
+    .section__items-text{
+        font-size: 18px;
+        margin-left: 40px;
+    }
+
+
+    /*//////////// Section 1 ///////////*/
+ .section__card-1{
+     width: 672px;
+     height: 242px;
+     margin-top: -60px;
+ }
+ 
+ .card__1-img{
+     width: 184px;
+     height: 245px;
+     margin-top: -41px;
+     margin-left: 45px;
+ }
+ 
+ .card__1-heading{
+     font-size: 35px;
+     margin-top: 10px;
+     margin-right: 150px;
+ }
+
+ .card__1-text{
+     font-size: 20px;
+     width: 200px;
+     margin-top: 20px;
+     margin-right: 150px;
+ }
+
+    /*///////// Section 2 //////////////*/
+
+ .section__card-2{
+     width: 672px;
+     height: 242px;
+ }
+
+ .card__2-img{
+    width: 184px;
+    height: 245px;
+    margin-top: -245px;
+    margin-left: 45px;
+}
+
+.card__2-heading{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+.card__2-text{
+    font-size: 20px;
+    width: 200px;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+    /*/////////////// Section 3 /////////*/
+
+ .section__card-3{
+     width: 672px;
+     height: 242px;
+ }
+
+ .card__3-img{
+    width: 184px;
+    height: 245px;
+    margin-top: -242px;
+    margin-left: 45px;
+}
+
+.card__3-heading{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+.card__3-text{
+    font-size: 20px;
+    width: 200px;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+    /*///////// Section 4 ////////*/
+
+ .section__card-4{
+     width: 672px;
+     height: 242px;
+ }
+
+ .card__4-img{
+    width: 184px;
+    height: 245px;
+    margin-top: -242px;
+    margin-left: 45px;
+}
+
+.card__4-heading{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+.card__4-text{
+    font-size: 20px;
+    width: 200px;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+}

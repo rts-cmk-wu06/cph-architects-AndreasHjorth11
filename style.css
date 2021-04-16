@@ -1,0 +1,19 @@
+
+@import url(/Images/Symbol\ 1\ –\ 1.png);
+
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+li {
+    list-style: none;
+}
+
+a {
+    list-style: none;
+}
+
